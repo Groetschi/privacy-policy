@@ -4,7 +4,7 @@ Privacy Policy
 
 **Privacy Policy**
 
-_Last Updated: 2024-04-30 (View updates)_
+_Last Updated: 2024-05-29
 
 **What Information is Collected**
 
