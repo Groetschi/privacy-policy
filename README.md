@@ -44,6 +44,27 @@ Please avoid giving other personal information as we do not want it.
 - Requests (such as downloads) are used for aggregated statistics and for calculating the popularity of packages. For example, download counts are shown for each package and release and there are also download graphs available for each package.
 - Whether an IP address has downloaded a package or release is cached to prevent downloads from being counted multiple times per IP address, but this information is deleted after 14 days.
 - IP addresses are used to monitor and combat abuse.
+  
+- Our app utilizes the TrueDepth API to enhance the scanning of objects.
+- However, it does not collect any facial data. The API is used solely for improving the accuracy and quality of the object scanning process, and no personal information or face data is collected, stored, or processed by our app.
+
+For What Purposes Are You Collecting This Information?
+
+Since our app does not collect any facial data, there are no purposes related to the collection of such information. The TrueDepth API is used exclusively to assist in scanning objects and ensuring the highest level of accuracy in the scans.
+
+Will the Data Be Shared with Any Third Parties? Where Will This Information Be Stored?
+
+No facial data or personal information is collected, and therefore, there is no data to be shared with third parties. All processing related to the TrueDepth API occurs locally on the user's device and does not involve any data transmission to external servers or third parties.
+
+Where in Your Privacy Policy Do You Explain Your App's Collection, Use, Disclosure, Sharing, and Retention of Face Data?
+
+The details regarding the non-collection of face data are explained in the "Use of TrueDepth API" section of this Privacy Policy.
+
+Quote the Specific Text from Your Privacy Policy Concerning Face Data
+
+The specific text concerning face data in our Privacy Policy is as follows:
+
+"Our app utilizes the TrueDepth API to enhance the scanning of objects. However, it does not collect any facial data. The API is used solely for improving the accuracy and quality of the object scanning process, and no personal information or face data is collected, stored, or processed by our app."
 - Other information is displayed as part of Lukas Groetsch's service.
 
 **Who has access**
