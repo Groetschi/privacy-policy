@@ -33,6 +33,7 @@ Please avoid giving other personal information as we do not want it.
 
 **How this information is used**
 
+- The App is programmed to scan Objects / locations via the rear Camera of the Device. This Data is only localy saved on the Device. The Data can be viewed in the App and is for Design and Measurment purpose.
 - Logged HTTP requests may be used for debugging Lukas Groetsch and combating abuse.
 - Email addresses are used to:
   - Provide essential system messages, such as password resets and privacy policy updates.
